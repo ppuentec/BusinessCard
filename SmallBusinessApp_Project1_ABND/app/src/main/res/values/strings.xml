@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmallBusinessApp_Project1_ABND</string>
+
+    <string name="company_name">Fancy Paws</string>
+
+    <string name="services">\nOnly for Very Important Pets \n- Pet Sitting \n- Daycare \n- Boarding \n- Dog Walking</string>
+    <string name="contact_info">Call us at 813-987-6543 or  email us at Sitter@fancypaws.com</string>
+</resources>
